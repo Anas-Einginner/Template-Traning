@@ -54,10 +54,7 @@
                     <li><a href="{{route('page.home')}}" class="active">Home</a></li>
                     <li><a href="{{route('page.about')}}">About</a></li>
                     <li><a href="{{route('page.service')}}">Services</a></li>
-                    <li><a href="{{route('page.contact')}}">Portfolio</a></li>
-                  
-                    
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="{{route('page.contact')}}">Contact</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
